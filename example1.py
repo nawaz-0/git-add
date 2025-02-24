@@ -1,1 +1,1 @@
-print("hi nawaZa shAREEF")
+print("hi nawaZas shAREEF")
